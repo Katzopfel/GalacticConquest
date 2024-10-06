@@ -1,0 +1,18 @@
+[project]
+name = "Galactic Conquest"
+version = "0.0.1"
+authors = [
+  { name="Flavie Gallois", email="gallois.flavie@gmail.com" },
+]
+description = "This is Galactic Conquest my small game for the NASA Space Apps challenge"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/pypa/sampleproject"
+Issues = "https://github.com/pypa/sampleproject/issues"
