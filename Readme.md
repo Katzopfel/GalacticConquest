@@ -11,11 +11,11 @@ Victory Conditions: The game ends when one player eliminate the enemy ship or if
 
 ## Credits
 
--Ships sprite : Myself
--[Planet sprite](https://helianthus-games.itch.io/pixel-art-planets)
--[Background space](https://piiixl.itch.io/space)
--Music :
-    -[Win music](https://youfulca.com/en/2022/08/10/8bit-victory01/)
-    -[Lose music](https://pixabay.com/sound-effects/8-bit-video-game-lose-sound-version-1-145828/)
-    -[Background music](https://www.fesliyanstudios.com/royalty-free-music/download/8-bit-retro-funk/883)
+- Ships sprite : Myself
+- [Planet sprite](https://helianthus-games.itch.io/pixel-art-planets)
+- [Background space](https://piiixl.itch.io/space)
+- Music :
+    - [Win music](https://youfulca.com/en/2022/08/10/8bit-victory01/)
+    - [Lose music](https://pixabay.com/sound-effects/8-bit-video-game-lose-sound-version-1-145828/)
+    - [Background music](https://www.fesliyanstudios.com/royalty-free-music/download/8-bit-retro-funk/883)
 
