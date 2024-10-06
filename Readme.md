@@ -11,6 +11,12 @@ Victory Conditions: The game ends when one player eliminate the enemy ship or if
 
 ## Credits
 
+How to start the game : go in GalacticConquest then dist and double click on the Board.exe file.
+
+Quick link : [Here](GalacticConquest/dist)
+
+## Credits
+
 - Ships sprite : Myself
 - [Planet sprite](https://helianthus-games.itch.io/pixel-art-planets)
 - [Background space](https://piiixl.itch.io/space)
